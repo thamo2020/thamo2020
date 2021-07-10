@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 ### I'm a computer science student who is passionate about writing code and building software.
 
 - 🔭 I’m currently an undergraduate at Sabaragamuwa University of Sri Lanka(SUSL).
-- 🌱 I’m currently working on a University Projects🧑🏻‍💻 and my own🙋🏻‍♂️🤞🏻!
+- 🌱 I’m currently working on a University Projects👧💻 and my own👧🏻‍🤞🏻!
 - 📚 I’m currently learning everything 🤣
 -  I love to Help Others👫🏻 , Swimming🤽🏻‍♂️ and Traveling 🧗🏻 🤩
+-  
 
 
 ### Connect With Me :
