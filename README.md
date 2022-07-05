@@ -1,4 +1,4 @@
-# Hi! I'm Thamodya Ranasinghe<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hi! I'm Thamodya Ranasinghe <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px" width="40px"></h2>
 
 
 <!--
