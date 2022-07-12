@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...👋
 -->
-<img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" />
+<img width="50%" align="right" alt="Github" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" />
 
 ### I'm a computer science student who is passionate about writing code and building software.
 
